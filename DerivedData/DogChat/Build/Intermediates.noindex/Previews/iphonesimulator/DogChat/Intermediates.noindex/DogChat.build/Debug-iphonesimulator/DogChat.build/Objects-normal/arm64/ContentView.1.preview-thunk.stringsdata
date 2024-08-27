@@ -1,0 +1,12 @@
+{
+  "source": "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Intermediates.noindex/Previews/iphonesimulator/DogChat/Intermediates.noindex/DogChat.build/Debug-iphonesimulator/DogChat.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

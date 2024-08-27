@@ -1,0 +1,12 @@
+{
+  "source": "/Users/jasonwan/Code/Personal Projects/DogChat/DogChat/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

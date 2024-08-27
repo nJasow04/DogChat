@@ -1,0 +1,107 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "30c161949fb9b150c07aa2f678d0672731dd5bf4cbb385683f0e26884d4a1b2b",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Products",
+          "derivedDataPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Intermediates.noindex/Previews/iphonesimulator/DogChat/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Intermediates.noindex/Previews/iphonesimulator/DogChat/Intermediates.noindex",
+              "SYMROOT" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Intermediates.noindex/Previews/iphonesimulator/DogChat/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "8F07A146-3275-4BEB-A161-FD1248D35126",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DogChat.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Products",
+      "derivedDataPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "8F07A146-3275-4BEB-A161-FD1248D35126",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

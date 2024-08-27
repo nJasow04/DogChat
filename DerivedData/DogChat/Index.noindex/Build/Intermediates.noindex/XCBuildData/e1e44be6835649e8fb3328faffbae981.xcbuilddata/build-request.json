@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "30c161949fb9b150c07aa2f678d0672731dd5bf4cbb385683f0e26884d4a1b2b"
+    }
+  ],
+  "containerPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DogChat.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Build/Products",
+      "pchPath" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

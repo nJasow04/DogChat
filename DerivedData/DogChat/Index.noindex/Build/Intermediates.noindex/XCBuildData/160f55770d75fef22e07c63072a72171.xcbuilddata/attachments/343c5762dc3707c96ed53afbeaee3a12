@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/Build/Intermediates.noindex/DogChat.build/Debug-iphonesimulator/DogChat.build/Objects-normal/arm64/DogChat-master.d",
+    "diagnostics" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/Build/Intermediates.noindex/DogChat.build/Debug-iphonesimulator/DogChat.build/Objects-normal/arm64/DogChat-master.dia",
+    "emit-module-dependencies" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/Build/Intermediates.noindex/DogChat.build/Debug-iphonesimulator/DogChat.build/Objects-normal/arm64/DogChat-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/Build/Intermediates.noindex/DogChat.build/Debug-iphonesimulator/DogChat.build/Objects-normal/arm64/DogChat-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/Build/Intermediates.noindex/DogChat.build/Debug-iphonesimulator/DogChat.build/Objects-normal/arm64/DogChat-master.swiftdeps"
+  },
+  "/Users/jasonwan/Code/Personal Projects/DogChat/DerivedData/DogChat/Index.noindex/Build/Intermediates.noindex/DogChat.build/Debug-iphonesimulator/DogChat.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/jasonwan/Code/Personal Projects/DogChat/DogChat/ContentView.swift" : {
+
+  },
+  "/Users/jasonwan/Code/Personal Projects/DogChat/DogChat/DogChatApp.swift" : {
+
+  }
+}
